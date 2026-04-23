@@ -1,0 +1,28 @@
+﻿  Car.cpp
+  Hospital.cpp
+  main.cpp
+  Organizer.cpp
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(81,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(82,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(97,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(98,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(112,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(113,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(265,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(366,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(366,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(372,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(372,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(376,83): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(376,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(300,12): warning C4101: 'y': unreferenced local variable
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(300,9): warning C4101: 'x': unreferenced local variable
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(449,7): warning C4101: 'car': unreferenced local variable
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(541,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Request.cpp
+  UI.cpp
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\UI.cpp(47,11): warning C4101: 'tmp': unreferenced local variable
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\UI.cpp(48,6): warning C4101: 'pri': unreferenced local variable
+  Generating Code...
+D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\EmergencySystem DS Project CIE205\Organizer.cpp(259,1): warning C4715: 'Organizer::findCar': not all control paths return a value
+  EmergencySystem DS Project CIE205.vcxproj -> D:\[2] Programming Folder\Visual Studio\[1] VS Projects\EmergencySystem DS Project CIE205\x64\Debug\EmergencySystem DS Project CIE205.exe

@@ -1,0 +1,27 @@
+FT 	 PID 	 QT 	 WT 
+8	2	4	2
+8	5	4	2
+9	8	4	2
+10	1	4	3
+11	4	4	3
+11	3	4	3
+11	11	5	3
+11	14	5	3
+12	7	4	4
+12	6	4	4
+12	17	5	3
+13	10	4	4
+13	9	4	4
+13	20	5	4
+15	12	5	5
+16	13	5	5
+16	15	5	5
+17	16	5	6
+18	19	5	6
+18	18	5	6
+Patiants : 20	[ NP : 6  , SP : 7  , EP : 7 ] 
+Hospitals : 5
+Cars : 103	 [ Scars : 40 Ncars : 63 ] 
+Avg Wait Time : 3
+Avg Busy Time : 7
+Avg utalization : 42.7778% 
